@@ -1,6 +1,6 @@
 # VR Project
 
-This is a project built by me (Trevor Heinemann) based on the original template as described below.
+This is a project built by me (Trevor Heinemann) based on the original template created by Prasanth Sasikumar for the University of Auckland.
 
 
 
@@ -22,32 +22,13 @@ EscapeRoom: Virtual Escape room Template for DES241 2020 Class
 Unity Escape Room Tutorial https://learn.unity.com/project/vr-beginner-the-escape-room
 Medieval-room https://assetstore.unity.com/packages/3d/environments/free-medieval-room-131004
 
-
-# TECHNICAL SPECIFICATIONS
-
-
-### Structure
-
-
-###### Explanation of Components: 
-
-
-### Interaction
-
-
-
 ### Downloads(Source code)
 - Please find the source code here - https://github.com/prasanthsasikumar/EscapeRoom
 - Issues can be reported here - https://github.com/prasanthsasikumar/EscapeRoom/issues/new
 
-
-
-### Todos
-
-
  
  ### Videos
- - 
+ - [Demo Video Here](Magical-Hut-VR-Project/Witch's Lair demo video.mp4)
 
 License
 ----
